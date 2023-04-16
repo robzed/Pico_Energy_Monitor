@@ -1,6 +1,6 @@
-# 
-#
-#
+# Energy Monitor Counter with web interface and RTC
+# Copright (c) 2023 Rob Probin
+# MIT License
 
 # Testing 
 ENABLE_NETWORK = False
